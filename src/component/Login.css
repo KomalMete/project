@@ -1,0 +1,38 @@
+.newone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    background-image: url('am.jpeg');
+    width: 800px;
+  }
+  
+  .col-sm-6 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    box-sizing: border-box;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+  }
+  
+  .form-check-label {
+    font-weight: normal;
+  }
+  
+  .submit-button {
+    width: 100%;
+  }

@@ -1,0 +1,14 @@
+.img1{
+    width : 200px;
+}
+
+.mb-3{
+    margin: 0;    /* Remove margin above and below the line */
+    padding: 0;   /* Remove padding above and below the line */
+    border: none; /* Remove default border */
+    
+}
+
+.cont{
+    background-color:white;
+}
